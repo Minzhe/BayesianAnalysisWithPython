@@ -33,7 +33,7 @@ plt.xlabel('$year$', fontsize=16)
 plt.ylabel('CO_2 (ppmv)$', fontsize=16)
 plt.show()
 
->>>>>>>>>>>>>>>>>>  binorminal distribution  <<<<<<<<<<<<<<<<<<<<< #
+# >>>>>>>>>>>>>>>>>>  binorminal distribution  <<<<<<<<<<<<<<<<<<<<< #
 ns = [1, 2, 4]
 ps = [0.25, 0.5, 0.75]
 x = np.arange(0, max(ns)+1)
